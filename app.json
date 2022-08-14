@@ -1,6 +1,6 @@
 {
-    "name": "项目名称",
-    "description": "项目名称",
+    "name": "xtw",
+    "description": "xtw",
     "keywords": ["vmess vless trojan shadowsocks socks"],
     "env": {
         "AA": {
